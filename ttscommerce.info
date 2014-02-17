@@ -1,4 +1,4 @@
-name = TTS-COMMERCE
+name = TTSCOMMERCE
 description = The base drupal installation
 version = VERSION
 core = 7.x
